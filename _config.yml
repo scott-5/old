@@ -6,7 +6,7 @@ highlighter: rouge
 gist:
   noscript: false
 markdown: GFM
-title: Scott's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: A 不知所云的 blog
+description: 鲁迅说：“我没说过任何一句话！”
 remote_theme: pages-themes/cayman@v0.2.0
 
